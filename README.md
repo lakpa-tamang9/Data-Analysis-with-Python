@@ -1,1 +1,2 @@
-# Data-Analysis-with-Python
+# Data Analysis with Python
+This example provides basic overview of the beginners data analysis with pandas library in python programming language. Data analysis is the process of cleaning, analyzing, and visualizing data to get insights into driving more effective decisions. To be specific, by usin gdata analysis, we can process the raw data into useful statistical inforamtion for solving any given problems.
