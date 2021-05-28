@@ -8,3 +8,4 @@ In this repository,a basic overview for the beginners data analysis is provided 
 ## 3. [Lesson 03](https://github.com/lakpa-tamang9/Data-Analysis-with-Python/blob/main/Exploratory%20Data%20Analysis.ipynb)- Exploratory Data Analysis
 ## 4. [Lesson 04](https://github.com/lakpa-tamang9/Data-Analysis-with-Python/blob/main/Label%20Encoding%20and%20One%20hot%20encoding.ipynb)- Label Encoding
 ## 5. [Lesson 05](https://github.com/lakpa-tamang9/Data-Analysis-with-Python/blob/main/Outlier%20detection.ipynb)- Outlier Detection
+## 5. [Lesson 06](https://github.com/lakpa-tamang9/Data-Analysis-with-Python/blob/main/Outlier%20detection.ipynb)- Feature Scaling
